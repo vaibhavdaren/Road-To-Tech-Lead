@@ -13,5 +13,6 @@
 <ol> Other Links
 
   <li> https://www.cloudamqp.com/rabbitmq_ebook.html </li>
-  <li> 
+  <li> https://vladmihalcea.com/books/high-performance-java-persistence/ </li>
+  <li> continue.. </li>
 </ol>
