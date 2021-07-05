@@ -3,7 +3,9 @@
 <ol> Recommended Reading 
 
   <li> Amazon Design Resources (https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)</li>
-  <li> Continue .. 
+  <li> Microservice Architectures (https://microservices.io/index.html) </li>
+  <li> saga https://microservices.io/patterns/data/saga.html </li>
+  <li> continue.. </li>
 </ol>
 
 <hr>
@@ -15,4 +17,13 @@
   <li> https://www.cloudamqp.com/rabbitmq_ebook.html </li>
   <li> https://vladmihalcea.com/books/high-performance-java-persistence/ </li>
   <li> continue.. </li>
+</ol>
+
+
+
+<h1> python specific  </h1> 
+<ol> python specific 
+  
+  <li> Python specific(https://testdriven.io/) </li>
+  <l1> continue .. 
 </ol>
