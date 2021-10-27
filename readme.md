@@ -5,7 +5,8 @@
   <li> Amazon Design Resources (https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)</li>
   <li> Microservice Architectures (https://microservices.io/index.html) </li>
   <li> saga https://microservices.io/patterns/data/saga.html </li>
-  <li> continue.. </li>
+  <li> API GATEWAY https://aws.amazon.com/api-gateway/ </li>
+  
 </ol>
 
 <hr>
