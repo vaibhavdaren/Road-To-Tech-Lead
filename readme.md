@@ -17,7 +17,7 @@
 
   <li> https://www.cloudamqp.com/rabbitmq_ebook.html </li>
   <li> https://vladmihalcea.com/books/high-performance-java-persistence/ </li>
-  <li> continue.. </li>
+  <li> https://www.youtube.com/watch?v=YPbGW3Fnmbc&ab_channel=Devoxx </li>
 </ol>
 
 
